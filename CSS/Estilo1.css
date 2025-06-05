@@ -1,7 +1,7 @@
-.colorTexto{
-    color: honeydew;
+span.colorTexto{
+    color: blue;
     front-size: 16px;
 }
-.colorFondo{
-    background-color: cornflowerblue;
+h1.colorFondo{
+    background-color: rgb(232, 237, 100);
 }
